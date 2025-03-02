@@ -12,7 +12,9 @@ AWS Black Belt ←AWSセミナーアーカイブ集
 
 https://aws.amazon.com/jp/blogs/news/2022-aws-beginner-learning/  
 ↑AWS初学者向け勉強方法6ステップ2022版  
+
 https://aws.amazon.com/jp/blogs/news/2024-aws-beginner-learning/  
 ↑〃2024版　　
+
 https://www.aws.training/  
 ↑AWSデジタルトレーニング    
